@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "url": "http://github.com/skacontrol/Simcalc/Simcalc_v1.0.exe"
+    "version": "1.1.0",
+    "notes": "- Nuevas características\n- Corrección de errores",
+    "download_url": "https://github.com/skacontrol/Simcalc/releases/download/v1.1.0/Simcalc.exe"
 }
-
